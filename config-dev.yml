@@ -12,6 +12,7 @@ spring:
           search-paths:
             - springcloud-config
       label: master #读取分之
+      info: "GitHub上的配置"
 eureka:
   client:
     service-url:
