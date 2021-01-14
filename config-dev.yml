@@ -1,2 +1,2 @@
 config:
-  info: "springcloud-config配置中心服务端启用后，客户端链接并启动时候会优先加载配置中心服务端配置。并覆盖原有配置"
+  info: "springcloud-config配置中心服务端启用后，客户端链接并启动时候会优先加载配置中心服务端配置。并覆盖原有配置.version=6"
