@@ -1,2 +1,2 @@
 config:
-  info: "生产...,version=6,Spring-RabbitMQ"
+  info: "生产...,version=6,Spring-RabbitMQ:http://localhost:3344/actuator/bus-refresh/config-client:3355"
